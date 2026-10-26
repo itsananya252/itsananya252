@@ -22,8 +22,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=2" width="100%"/>
-
 ## 👩‍💻 About Me
 
 Hi, I'm **Ananya** 👋, a CS student and aspiring **Full Stack Developer** who loves turning ideas into working products. I enjoy backend engineering with **Java and Spring Boot**, and I'm increasingly curious about **applied AI**: running local LLMs, building RAG pipelines and wiring them into real applications.
@@ -31,14 +29,12 @@ Hi, I'm **Ananya** 👋, a CS student and aspiring **Full Stack Developer** who 
 ```bash
 ananya@dev:~$ neofetch --profile
 
-  ┌──────────────────────────────────────────────────────┐
-  │  👩‍💻  ROLE        Full Stack Developer | CS Student   │
-  │  ☕  CORE STACK  Java · Spring Boot · PostgreSQL · React │
-  │  🤖  EXPLORING   Spring AI · Ollama · RAG · System Design │
-  │  🧩  PRACTICING  DSA on LeetCode & TakeUForward       │
-  │  🟢  STATUS      Fresher, actively building & learning │
-  │  💼  OPEN TO     Full Stack roles & internships       │
-  └──────────────────────────────────────────────────────┘
+  ROLE        Full Stack Developer | CS Student
+  CORE STACK  Java · Spring Boot · PostgreSQL · React
+  EXPLORING   Spring AI · Ollama · RAG · System Design
+  PRACTICING  DSA on LeetCode & TakeUForward
+  STATUS      Fresher, actively building & learning
+  OPEN TO     Full Stack roles & internships
 
 ananya@dev:~$ ./start_building.sh
 >> Compiling ideas... done ✔
@@ -47,37 +43,32 @@ ananya@dev:~$ ./start_building.sh
 
 <br/>
 
-## 🔭 Currently Working On
+## ⚡ What I Bring
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🌱 Sapling
-AI-powered hiring platform with RAG-based intelligence *(team project)*
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=7dd3fc)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=7dd3fc)
+### 🏗️ Backend
+Layered Spring Boot apps, REST APIs, JPA and clean architecture
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 📈 Signal Platform
-Final year project generating gold and Nifty prediction signals
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=7dd3fc)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=7dd3fc)
+### 🗄️ Databases
+PostgreSQL with versioned schema migrations using Flyway
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🔗 URL Shortener
-Shareable short links with versioned DB migrations
+### 🤖 Applied AI
+Local LLMs with Ollama, Spring AI and RAG pipelines
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=7dd3fc)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7dd3fc)
-![Flyway](https://img.shields.io/badge/Flyway-0d1117?style=flat-square&logo=flyway&logoColor=7dd3fc)
+</td>
+<td align="center" width="25%">
+
+### 🧠 Problem Solving
+Daily DSA practice on LeetCode and TakeUForward
 
 </td>
 </tr>
@@ -160,6 +151,15 @@ Converts long URLs into **short, shareable links**, with a server-side rendered 
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&theme=dark" alt="Tools"/> |
 
 </div>
+
+<br/>
+
+## 🎯 Goals
+
+- 🧱 Get really strong at **system design** and backend architecture
+- 🤖 Build more **AI-integrated** applications with RAG and local LLMs
+- 🧠 Keep up a **daily DSA** practice habit
+- 💼 Land a **Full Stack Developer** role where I can ship real products
 
 <br/>
 
